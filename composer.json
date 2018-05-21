@@ -1,0 +1,13 @@
+{
+    "name": "brain-games",
+    "type": "library",
+  	"authors": [
+    {
+      "name": "Dmitry Chertok",
+      "email": "chertokdmitry@yandex.ru"
+}
+    "require": {},
+    "bin": [
+    "bin/brain-games"
+  ]
+}
