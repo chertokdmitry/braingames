@@ -1,4 +1,5 @@
 #!/usr/bin/php
+
 <?php
 namespace Braingames;
 echo "Welcome to the Brain Games!";
