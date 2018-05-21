@@ -13,9 +13,8 @@
     },
     "autoload": {
         "psr-4": {
-            "Braingames\": "bin/"
+            "Braingames\\": "bin/"
         }
     }
 }
-
 
