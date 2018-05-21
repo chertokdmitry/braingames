@@ -1,5 +1,5 @@
 {
-    "name": "dchertok/braingames",
+    "name": "chertokdmitry/braingames",
     "bin": ["bin/brain-games"],
     "description": "First project",
     "type": "library",
