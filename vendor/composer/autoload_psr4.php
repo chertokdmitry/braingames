@@ -6,5 +6,5 @@ $vendorDir = dirname(dirname(__FILE__));
 $baseDir = dirname($vendorDir);
 
 return array(
-    'Braingames' => array($baseDir . '/bin'),
+    'Braingames\\' => array($baseDir . '/bin'),
 );
