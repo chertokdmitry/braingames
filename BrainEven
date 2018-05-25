@@ -1,0 +1,14 @@
+<?php
+namespace BrainGames\Games\BrainEven;
+
+use function \cli\line;
+use function \cli\prompt;
+use function \BrainGames\Cli\gameStart;
+
+function run($game)
+{
+$gameHeader = 'Answer "yes" if number even otherwise answer "no".';
+$promts = 3;    
+
+gameStart($gameHeader, $promts);
+}
